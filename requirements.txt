@@ -4,7 +4,7 @@ pandas
 base58==2.0.0
 matplotlib
 numpy==1.24.3
-yfinance==0.1.54
+yfinance
 lxml
 pandas_datareader
 tensorflow==2.13.0
